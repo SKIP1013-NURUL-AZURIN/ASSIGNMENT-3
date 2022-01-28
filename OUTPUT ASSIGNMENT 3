@@ -1,0 +1,113 @@
+==========================================================================================================
+                                WELCOME TO LAZAT SEGERA RESTAURANT!                                            
+==========================================================================================================
+
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
+Enter the system that you want to use : 1
+
+------------ DAILY PROFIT CALCULATION SYSTEM------------
+
+Do you want to know your profit amount today?
+You need to enter all the details below.
+
+Username : AZU
+Day : SATURDAY
+Date: 29/1/22
+Number of available fast food : 3
+Number of available beverage : 2
+Available fast food and beverage: FRIEDCHICKEN,BURGER,WEDGES,MILOICED,JUICE
+Enter total price for ingredient needed(capital) : RM670.45
+Enter total selling price : RM1258.65
+Your gross profit for today is RM588.20
+Enter total employee's salary : RM300
+Enter store rental costs : RM10.95
+Enter electric bill price : RM5.30
+Enter water bill price : RM4.99
+Total bill price : RM10.29 
+Your hidden costs is RM321.24
+Your net profit for today is RM266.96 
+Summary<3
+
+Username : AZU
+Day : SATURDAY
+Date: 29/1/22
+Number of available fast food : 3
+Number of available beverage : 2
+Available fast food and beverage: FRIEDCHICKEN,BURGER,WEDGES,MILOICED,JUICE
+Total price for ingredient needed(capital) : RM 670.45
+Total sale price : RM 1258.65
+Gross profit for today is RM588.20
+Net profit for today is RM266.96 
+
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
+Enter the system that you want to use : 2
+
+------------ CUSTOMER'S ORDER SYSTEM------------
+
+Do you have booking from customers?
+You need to enter all the customer's details and customer orders below.
+
+Enter customer's name : NURUL
+Enter date of booking : 1/1/22
+Enter booked date : 19/1/22
+Enter booked day : WEDNESDAY
+Enter booked time : 8.30P.M.
+Enter number of food package : 3
+
+COUPLE PACKAGE<3 (meals for 2 people)
+5% OFF FOR COUPLE PACKAGE!!
+Enter number of set           : 2
+Normal Price                  : RM55.50
+New price for COUPLE PACKAGE  : RM52.73 
+Total price                   : RM105.45
+Delivery(1) or Dine-in(2)     : 2
+
+A table that has 2 seats will be provided.
+Customer's special request :
+BIRTHDAY_CELEBRATION_DECO
+
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
+Enter the system that you want to use : 3
+
+------------ ALA CARTE SYSTEM------------
+
+Enter customer's name : AZURIN
+Enter date of booking : 12/2/22
+Enter booked date : 12/2/22
+Enter booked day : SATURDAY
+Enter booked time : 12.30.P.M.
+
+MENU
+1. CHICKEN(1PC) : RM5.99
+2. CLASSIC BURGER : RM11.99
+3. CHEZZY BURGER : RM12.7
+4. CHEZZY WEDGES : RM6.99
+5. LOADED POTATO BOWL : RM7.49
+6. WHIPPED POTATO : RM7.99
+7. NUGGETS(9PC) : RM13.99
+8. COLESLAW : RM7.99
+9. NASI LEMAK : RM3.99
+10. POPCORN CHICKEN : RM10.99
+11. CHOCOLATE BANANA CAKE : RM7.99
+12. RED VELVET CAKE : RM8.99
+13. ICED MILO : RM5.99
+14. PEPSI BLACK : RM4.7
+15. ICED LEMON TEA : RM5.99
+16. SJORA MANGO PEACH : RM5.99
+17. TROPICANA TWISTER : RM5.99
+18. NESTLE LEMONADE : RM5.99
+
+Customer's choice : 3
+Quantity : 2
+FOOD ORDERED : CHEZZY BURGER
+TOTAL PRICE  : RM25.40 
+
+Delivery(1) or Dine-in(2)      : 1
+We will deliver customer's order 15 minutes early.
+Customer's special request :
+EXTRA_SAUCE
+
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
+Enter the system that you want to use : 4
+
+-----The end. Thank you for your service today. See you tomorrow <3-----
